@@ -78,8 +78,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/BochilGaming/games-wabot
-cd games-wabot
+git clone https://github.com/Syahrul17458/pemula
+cd pemula
 npm install
 npm update
 ```
