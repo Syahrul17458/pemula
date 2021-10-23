@@ -41,7 +41,7 @@ const defaultMenu = {
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
 │ Github:
-│ %github
+│ https://github.com/Syahrul17458/ngetes
 ╰────
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
