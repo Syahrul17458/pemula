@@ -89,7 +89,7 @@ npm update
 ## Run
 
 ```bash
-node rulzt .
+node .
 ```
 
 ---------
