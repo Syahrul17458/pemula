@@ -7,7 +7,7 @@ let handler = async (m, { text, usedPrefix, command }) => {
 }
 handler.help = ['carigrup <pencarian>']
 handler.tags = ['tools']
-
+handler.owner = true
 handler.command = /^carig(ro?up|c)/i
 
 module.exports = handler
