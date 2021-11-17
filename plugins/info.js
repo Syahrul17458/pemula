@@ -49,7 +49,7 @@ ${(global.linkGC).map((v, i) => '║ *Group ' + (i + 1) + '*\n║' + v).join`\n�
 handler.help = ['info']
 handler.tags = ['about']
 handler.command = /^(info(bot)?)$/i
-
+handler.owner = true
 module.exports = handler
 
 const more = String.fromCharCode(8206)
