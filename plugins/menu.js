@@ -40,7 +40,7 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│ 
+│ *SC NYA MINTA OWNER*
 ╰────
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
