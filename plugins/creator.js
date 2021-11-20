@@ -4,7 +4,7 @@ let handler = function (m) {
   for (let owner of Object.entries(global.Owner).filter(v => v[1].isCreator)) {
     contacts.push(...[owner[0], owner[1].name])
   }
-  if (contacts.length < 3) return this.sendContact(m.chat, '6281313087802', 'Acadian store', m)
+  if (contacts.length < 3) return this.sendContact(m.chat, '6285926431562', 'Acadian store', m)
   this.sendContactRulzt(m.chat, '6281313087802', m)
 }
 handler.help = ['owner', 'creator']
