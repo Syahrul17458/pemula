@@ -13,7 +13,7 @@ let handler = async m => m.reply(`
 ➳PERMANEN : 30k
 ❖━━━━━❖•◈•❖━━━━━━❖
 ✰NOMOR OWNER BOT✰
-➳wa.me/6281313087802
+➳wa.me/6285926431562
 ❖━━━━━❖•◈•❖━━━━━━❖
 ✰BOTZ AKTIF 24 JAM✰
 `.trim()) // Tambah sendiri kalo mau
